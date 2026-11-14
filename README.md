@@ -2,7 +2,7 @@
 
 > **Note**: Pause Tamper Protection in Windows Security before applying persistent service or registry toggles.
 
-<img width="512" height="512" alt="images1" src="https://github.com/user-attachments/assets/78a562e8-4ce9-4383-8b4b-bf3ff49e99fa" />
+<img width="212" height="212" alt="images1" src="https://github.com/user-attachments/assets/78a562e8-4ce9-4383-8b4b-bf3ff49e99fa" />
 <img width="1082" height="647" alt="images2" src="https://github.com/user-attachments/assets/356930f3-634c-4202-8845-57dd61933cfe" />
 
 ## Service & Exclusion Controls
